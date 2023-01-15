@@ -14,9 +14,9 @@ This app demonstrates basic concepts of Kotlin coroutines. It is part of the [An
 Environment
 
 - Kotlin 1.7.10
-- Android Studio Dolphin 2021.3.1
+- Android Studio Electric Eel 2022.1.1
 - Compose 1.3.1
-- Gradle Plugin 7.3.1
+- Gradle Plugin 7.4.0
 
 ---
 
@@ -24,5 +24,5 @@ Environment
 language: kotlin
 repo: racetracker
 status: active
-updated: 2023-01-12
+updated: 2023-01-15
 ```

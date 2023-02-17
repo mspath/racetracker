@@ -16,7 +16,7 @@ Environment
 - Kotlin 1.7.10
 - Android Studio Electric Eel 2022.1.1
 - Compose 1.3.1
-- Gradle Plugin 7.4.0
+- Gradle Plugin 7.4.1
 
 ---
 
@@ -24,5 +24,5 @@ Environment
 language: kotlin
 repo: racetracker
 status: active
-updated: 2023-01-15
+updated: 2023-02-17
 ```

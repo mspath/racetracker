@@ -13,10 +13,10 @@ This app demonstrates basic concepts of Kotlin coroutines. It is part of the [An
 
 Environment
 
-- Kotlin 1.7.10
+- Kotlin 1.8.0
 - Android Studio Electric Eel 2022.1.1
-- Compose 1.3.1
-- Gradle Plugin 7.4.1
+- Compose BOM 2023.01.00
+- Gradle Plugin 7.4.2
 
 ---
 
@@ -24,5 +24,5 @@ Environment
 language: kotlin
 repo: racetracker
 status: active
-updated: 2023-02-17
+updated: 2023-04-04
 ```
